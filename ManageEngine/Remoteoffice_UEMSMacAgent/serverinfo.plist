@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>REMOTEOFFICEAUTHKEY</key>
-	<string>1de46dec52bc8e74332f94daff6e3fb1</string>
+	<string>7a6f10dbaea400c8937efb08ae787994</string>
 	<key>SERVERNAME</key>
 	<string>IT-RYGEL.vdi.pix4d.com</string>
 	<key>AUTODETECT_PROXY</key>
@@ -33,7 +33,7 @@
 	<key>REMOTEOFFICEID</key>
 	<string>301</string>
 	<key>AGENTVERSION</key>
-	<string>10.1.2228.5.M</string>
+	<string>11.3.2400.6.M</string>
 	<key>SC_VALUE</key>
 	<string>0</string>
 	<key>PERFORMASSETSCAN</key>
@@ -69,11 +69,11 @@
 	<key>RoSummaryEnabled</key>
 	<string>false</string>
 	<key>VALUE2</key>
-	<string>1de46dec52bc8e74332f94daff6e3fb1</string>
+	<string>7a6f10dbaea400c8937efb08ae787994</string>
 	<key>UNIQUE_ID_STATUS</key>
 	<string>false</string>
 	<key>VALUE1</key>
-	<string>f32045371b857816a159fbaf8b5c5f60d8194579b1f03f95cc066c3bcc447f6a6de8ab48559c62f474866a03185bfd10</string>
+	<string>0209535181900aa334a688b5e9b5e38a363769ec11110e542a586ed5c62fd3df9202d43c3a5ace6ed3ea1058176fa613</string>
 	<key>ENABLEPROXY</key>
 	<string>no</string>
 	<key>branchID</key>
